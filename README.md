@@ -11,7 +11,7 @@
 - [License](#license)
 
 ## Image: 
-![Alt text]([https://example.com/path/to/image.jpg](https://media.istockphoto.com/id/1673572996/photo/young-boy-using-laptop-for-studies.jpg?s=2048x2048&w=is&k=20&c=CbI6umWIQfpcDOeLbD9WZjIHvDcDzpVf5duQ2xIF9h8=))
+![Profile Image](https://media.licdn.com/dms/image/v2/D4D03AQFvpFUrxrSJkw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1696169271226?e=1735171200&v=beta&t=npxGdSZmRHMT1J2uu8Waa6mdDTptj1rIA6irRrudA8U)
 
 
 ## Video:
